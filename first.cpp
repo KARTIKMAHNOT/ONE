@@ -1,7 +1,6 @@
 #include<iostream>
+using namespace std;
 int main(){
-
-	cout<<"xyz";
-	cout<<"abcd";
+cout<<5*10;
 
 }
